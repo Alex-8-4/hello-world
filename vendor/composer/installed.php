@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'alex84/hello-world',
+        'name' => '__root__',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '4ba4437ea34af9ebf7eb3867405617be1b0f199a',
+        'reference' => 'ea82cf6f233a50c4c9337e55b9dfaa3b2aaf21ec',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'alex84/hello-world' => array(
+        '__root__' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '4ba4437ea34af9ebf7eb3867405617be1b0f199a',
+            'reference' => 'ea82cf6f233a50c4c9337e55b9dfaa3b2aaf21ec',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

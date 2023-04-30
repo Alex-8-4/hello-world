@@ -1,10 +1,9 @@
 {
-    "name": "alex84/hello-world",
     "description": "My first Composer project",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "alex84\\HelloWorld\\": "src/"
+            "HelloWorld\\": "src"
         }
     },
     "minimum-stability": "dev",

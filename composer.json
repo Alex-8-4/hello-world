@@ -1,4 +1,5 @@
 {
+    "name": "alex84/hello-world",
     "description": "My first Composer project",
     "license": "MIT",
     "autoload": {

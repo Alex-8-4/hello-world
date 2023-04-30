@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "HelloWorld\\": "src/"
+            "alex84\\HelloWorld\\": "src/"
         }
     },
     "minimum-stability": "dev",
